@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Identity"
 date:   2019-03-20 20:00:11 -0500
 categories:
