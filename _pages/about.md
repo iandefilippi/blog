@@ -1,8 +1,8 @@
 ---
-title: "Page Not Found"
-excerpt: "Page not found. Your pixels are in another canvas."
+title: "About"
+excerpt: "About me"
 sitemap: true
-permalink: /about.html
+permalink: /about/
 ---
 
 I'm Ian Defilippi. I'll just throw random facts about me.
