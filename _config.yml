@@ -139,7 +139,7 @@ footer:
       url: "https://twitter.com/iandflp"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://instagram.com/iandflp"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/iandflp"
 
 
 # Reading Files
