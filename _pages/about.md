@@ -1,9 +1,9 @@
 ---
 title: "About"
 excerpt: "About me"
-sitemap: true
+#sitemap: true
 permalink: /about/
-#layout: single
+layout: single
 ---
 
 I'm Ian Defilippi. I'll just throw random facts about me.
