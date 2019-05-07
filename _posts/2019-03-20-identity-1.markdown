@@ -9,7 +9,7 @@ tags:
 - Trust
 header:
   overlay_image: https://images.unsplash.com/photo-1495722281458-25edbdb08a1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80
-excerpt: "Musings on identity."
+excerpt: "Musings on identity. Part 1."
 ---
 
 One of my first ideas for a blockchain application (I refuse to add a link to anything blockchain here) came while I was taking a [Fintech](https://en.wikipedia.org/wiki/Financial_technology) class at McCombs. My group and I were working on a final project and decided that blockchain was the most interesting application and challenging of the topics we saw.
