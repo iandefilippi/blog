@@ -1,0 +1,14 @@
+---
+title:  "Identity 2"
+date:   2019-05-04 11:51:00 -0500
+categories:
+- Identity
+tags:
+- Identity
+- Relations
+- Trust
+---
+
+This is part 2 of my post on identity in general.
+
+My real motivation was deeper than that. I'm Peruvian, and have lived most of my first 30th years in Lima.
