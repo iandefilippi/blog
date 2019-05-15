@@ -6,6 +6,8 @@
 
 ## License
 
+Ian's content is personal and should be asked to use it elsewhere.
+
 The MIT License (MIT)
 
 Copyright (c) 2013-2019 Michael Rose and contributors
