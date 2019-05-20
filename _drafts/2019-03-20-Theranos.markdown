@@ -12,7 +12,7 @@ tags:
 - Identity
 ---
 
-Last week, I read John Carreyrou's _Bad Blood: Secrets and Lies in a Silicon Valley Startup_ . It's a very  Of course, there are many things that were wrong like fraud, deception, and abuse in multiple levels. But what I found fascinating was how far the Theranos went without getting caught.
+Last week, I read John Carreyrou's _Bad Blood: Secrets and Lies in a Silicon Valley Startup_ . This book is very addictive. I found myself reading until 2:00am more than once, and in times that I shouldn't be reading. It took me 4 days, but it was quite a ride! Of course, there are many things that were wrong in Theranos and Elizabeth Holmes' journey like fraud, deception, and abuse in multiple levels. But what I found fascinating was how far Theranos went without getting caught.
 
 There are so many instances of checkpoints that should be bypassed had not been for some enablers. But these enablers have reputation and authority to overwrite the common controls.
 
