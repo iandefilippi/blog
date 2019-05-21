@@ -27,7 +27,7 @@ But Chernobyl showed a dichotomy that the Soviet Union couldn’t hide: the expl
 | | Hide | Admit |
 |-------|--------|---------|
 | Not caught  | Nothing | Prison |
-| Got caught | Death | Death |
+| Got caught | Death | Death | 
 
 If these were the choices, hiding is the dominant strategy. Why would anyone admit guilt? So, who do you really trust to tell the truth under these circumstances?
 
