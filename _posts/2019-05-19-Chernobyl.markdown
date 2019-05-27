@@ -32,6 +32,8 @@ And how did the USSR controlled that everyone stayed in line? The show suggests 
 
 There is no better example than Lyudmilla Ignatenko, the pregnant wife of firefighter Vasily Ignatenko in the hospital after being directly in touch with the radiation of graphite. He's going to die in the next few days, in a terrifying way. Lyudmilla manages to get in his room and be really close to him in this condition, despite several warnings against it. But she doesn't really know how dangerous that is. How could she? Even the decision makers don't know the dangers of radiation. We can assume it's not the first seemingly ridiculous command she received and ignored. The nurses are told to not explain anything; she isn't even supposed it be in that hospital in Moscow. So when a nuclear physicist finds here in the room with her husband, she makes a big scandal for it. She threatens to report the nurse for letting Lyudmilla in the room, but then an officer from the KGB steps in, completely shutting her down. Clearly, the priority is information control over safety.
 
+But information wants to be free.
+
 Was the USSR prepared for a scandal? That the population has been betrayed by their leaders? Would that be the first time? What if those accumulated over time? What was the perception of the regime? I have too many questions on the trust aspect between the people and the government.
 
 Would've it been much better in the West?
