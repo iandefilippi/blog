@@ -8,7 +8,8 @@ tags:
 - Chernobyl
 header:
   overlay_image: https://images.unsplash.com/photo-1543708819-a79b0bce3ea9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2551&q=80
-excerpt: "Chernobyl and vertical governance"
+#excerpt: "Chernobyl and vertical governance"
+excerpt: “We cut the phone lines. Contain the spread of misinformation. That is how we keep the people from undermining the fruits of their own labor.”
 ---
 There are only three episodes out of HBO's mini-series _Chernobyl_ and I'm obsessed with it. I've been evangelizing it to everyone I can. I'm not a fan of horror or disaster show. But the way this show makes me feel when I watch it and 24 hours after is a combination of horror, uneasiness, disgust, and admiration. But it effectively transmits the radiation to me, like I was in the city and I'm affected by the decisions made. It's maybe the invisibility of radiation that does the trick. In any case, the production is flawless and from I can gather, it tries to be close to reality. Without a better source, I want to use that recreation to exemplify the form of trust in this show. (I don't want to get spoiled, or need more context to understand the circumstances here, or want to know what my hype is all about, please watch Chernobyl first.)
 
