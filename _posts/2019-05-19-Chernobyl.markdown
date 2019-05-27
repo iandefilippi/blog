@@ -34,6 +34,6 @@ There is no better example than Lyudmilla Ignatenko, the pregnant wife of firefi
 
 But information wants to be free.
 
-Was the USSR prepared for a scandal? That the population has been betrayed by their leaders? Would that be the first time? What if those accumulated over time? What was the perception of the regime? I have too many questions on the trust aspect between the people and the government.
+Was the USSR prepared for a scandal? Would that be the first time? What if those accumulated over time? What was the general perception of the regime? I have too many questions on the trust aspect between the people and the government.
 
 Would've it been much better in the West?
