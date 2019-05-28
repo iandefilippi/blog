@@ -7,8 +7,11 @@ tags:
 - Identity
 - Relations
 - Trust
+header:
+  overlay_image: https://images.unsplash.com/photo-1495722281458-25edbdb08a1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80
+excerpt: "Musings on identity. Part 1."
 ---
 
-This is part 2 of my post on identity in general.
+What is identity
 
-My real motivation was deeper than that. I'm Peruvian, and have lived most of my first 30th years in Lima.
+My real motivation was deeper than that. I'm Peruvian, and have lived most of my first 30th years in Lima. When I decided to start my MBA,
