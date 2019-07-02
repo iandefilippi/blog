@@ -13,3 +13,8 @@ This is the paras test.
 Google charts
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRfkphSxRG58SR1FNdW55jHiFpSkpIkEsdwjk3_2ON_9JP1mI_QSvnJaxn5SoOYWIQbruxMZF9RE_Bs/pubchart?oid=288844311&amp;format=image"></iframe>
+
+
+CODetail
+
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1AMPinfiuDrKUhfKF40_dISRT8WBTIRPd/page/Igot" frameborder="0" style="border:0" allowfullscreen></iframe>
