@@ -5,10 +5,13 @@ permalink: /test/
 layout: single
 ---
 
-CODetail
+CO Detail
 
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1AMPinfiuDrKUhfKF40_dISRT8WBTIRPd/page/Igot" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+CO Detail 2
+
+https://datastudio.google.com/embed/reporting/1AMPinfiuDrKUhfKF40_dISRT8WBTIRPd/page/Igot
 
 This is the paras test.
 
