@@ -7,7 +7,7 @@ layout: single
 
 CODetail
 
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1AMPinfiuDrKUhfKF40_dISRT8WBTIRPd/page/Igot" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="600" height="900" src="https://datastudio.google.com/embed/reporting/1AMPinfiuDrKUhfKF40_dISRT8WBTIRPd/page/Igot" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 This is the paras test.
